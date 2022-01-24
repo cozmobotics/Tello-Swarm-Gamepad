@@ -32,6 +32,8 @@ You need to set up a swarm. Basically this can be done in one of the following w
 * If necessary, edit the script by overwriting the values for wlan0 and wlan1 
 * Connect both Tellos (EDU or normal) to the two WLAN adapters  
 
+See thread https://tellopilots.com/posts/40082/  
+
 # How to fly
 Once you have connected your swarm and your gamepad, start the program. 
 It will report the type of gamepad and the number of axes. It displays the answers from the Tellos which should be "1: ok" and "2: ok". 
