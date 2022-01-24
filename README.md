@@ -42,9 +42,11 @@ The start and select buttons are used to start the motors ("old style") and to t
 
 _Important_: Select a flying area with good light and little or no wind. The better the conditions, the more precisely the Tellos will move. Under unfavorable conditions, Tellos drift in different directions which makes maneuvering difficult. To get them synchronized again, select only one of them, hopefully the other one will stay in place. Steer the selected Tello to the desired position and re-enable both Tellos. This is done in the following way: 
 
+![gamepad controls](gamepad.png "gamepad controls")
+
 The round buttons on the rigght side of the gamepad are used to select Tello 1, Tello 2 or both. Refer to the image showing the controls. Depending on your gamepad and operating system, the assignment of controls may differ. Let one Tello hover in place while letting the othe one fly around, then park the first one, let them fly togeter again, very much fun! 
 
-To make it even more interesting, you can reverse the yaw, pitch and roll axes (up/down will always be the same for both Tellos), letting the Tellos fly in different directions. Be sure to have an eye on both Tellos, don't let them collide or crash into something. 
+To make it even more interesting, you can reverse the yaw, pitch and roll axes (up/down will always be the same for both Tellos) of Tello 2, letting the Tellos fly in different directions. Be sure to have an eye on both Tellos, don't let them collide or crash into something. 
 
 The "B" button lands the selected Tello(s). Holding the button down for more than one second ends the program (Bug: You need to hit the enter key on the keyboard so the program really ends). The push buttons in the sticks issue an "emergency" command to both Tellos, so they both drop out of the air. 
 
