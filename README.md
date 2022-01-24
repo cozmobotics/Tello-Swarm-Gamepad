@@ -36,9 +36,9 @@ See thread https://tellopilots.com/posts/40082/
 
 # How to fly
 Once you have connected your swarm and your gamepad, start the program Tello3_swarm_gamepad.py. 
-It will report the type of gamepad and the number of axes. It displays the answers from the Tellos which should be "1: ok" and "2: ok". 
+It will report the type of gamepad and the number of axes. It displays the answers from the Tellos which should be "-1-:ok" and "-2-:ok". 
 Now you are all set and ready for takeoff. You can enter commands like "battery?" or "takeoff" via the keyboard and/or use the gamepad. 
-You may check the batteries by typing "battery?" and get something like "1: 85" and "2: 69".   
+You may check the batteries by typing "battery?" and get something like "-1-:85" and "-2-:69".   
 
 The start and select buttons are used to start the motors ("old style") and to takeoff. With motors running, you can use the "up" stick to takeoff. So far, both Tellos always move synchronously and in the same direction.  
 
